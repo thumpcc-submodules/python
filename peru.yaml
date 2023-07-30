@@ -1,0 +1,7 @@
+imports              :
+  thumpcc_base: ./
+
+git module thumpcc_base:
+  url : https://github.com/thumpcc-submodules/base.git
+  drop:
+    - .gitignore
